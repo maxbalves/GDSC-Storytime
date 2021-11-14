@@ -8,3 +8,8 @@ The club also talked about different technologies at the hackathon, including:
 Google slides
 Google docs
 Google firebase
+
+The club talked about the greatest movies ever at the hackathon, including:
+The life of pi
+pluto nash
+mulan
