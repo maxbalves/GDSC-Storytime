@@ -2,3 +2,4 @@ Hi! My name is Max!
 I am one of the GDSC Tech Leads.
 I'm from Brazil!
 I love sushi, chipotle, and coding!
+I'm testing how to edit and use text files. Also how to use the terminal.
