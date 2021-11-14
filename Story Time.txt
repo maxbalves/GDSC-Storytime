@@ -9,7 +9,9 @@ Google slides
 Google docs
 Google firebase
 
+
 The club talked about the greatest movies ever at the hackathon, including:
 The life of pi
 pluto nash
-mulan
+GDSC Movie time (Based off the true story, gdsc storytime)
+
