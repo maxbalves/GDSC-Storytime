@@ -1,3 +1,4 @@
 GDSC Story Time
 
 Once upon a time, there was once a club called GDSC.
+This club participated in the knight hacks hackathon!
