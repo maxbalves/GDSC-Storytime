@@ -8,3 +8,8 @@ The club also talked about different technologies at the hackathon, including:
 Google slides
 Google docs
 Google firebase
+
+This club also talked about the best movies of all time, including:
+The dark knight
+spiderman
+GDSC Movie time (Based off the true story, gdsc storytime)
